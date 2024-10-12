@@ -1,0 +1,4 @@
+﻿  DeleteClientByAccountNumber.cpp
+C:\Users\LENOVO\Desktop\project c++\DeleteClientByAccountNumber\DeleteClientByAccountNumber\DeleteClientByAccountNumber.cpp(23,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\LENOVO\Desktop\project c++\DeleteClientByAccountNumber\DeleteClientByAccountNumber\DeleteClientByAccountNumber.cpp(140,1): warning C4715: 'DeleteAccountByAccountNumber' : les chemins de contrôle ne retournent pas tous une valeur
+  DeleteClientByAccountNumber.vcxproj -> C:\Users\LENOVO\Desktop\project c++\DeleteClientByAccountNumber\DeleteClientByAccountNumber\x64\Debug\DeleteClientByAccountNumber.exe

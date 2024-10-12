@@ -1,0 +1,8 @@
+﻿  FindClientByAccountNumber.cpp
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(22,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(43,33): warning C4244: 'argument' : conversion de 'double' en 'const _Elem', perte possible de données
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(43,33): warning C4244:         with
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(43,33): warning C4244:         [
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(43,33): warning C4244:             _Elem=char
+C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\FindClientByAccountNumber\FindClientByAccountNumber.cpp(43,33): warning C4244:         ]
+  FindClientByAccountNumber.vcxproj -> C:\Users\LENOVO\Desktop\project c++\FindClientByAccountNumber\x64\Debug\FindClientByAccountNumber.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\project c\u002B\u002B\\ShowClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81908A0-208A-482D-9943-FA82F64E11AA}|ShowClient\\ShowClient.vcxproj|C:\\Users\\LENOVO\\Desktop\\project c\u002B\u002B\\ShowClient\\ShowClient\\ShowClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A81908A0-208A-482D-9943-FA82F64E11AA}|ShowClient\\ShowClient.vcxproj|solutionrelative:ShowClient\\ShowClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowClient.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\project c\u002B\u002B\\ShowClient\\ShowClient\\ShowClient.cpp",
+              "RelativeDocumentMoniker": "ShowClient\\ShowClient.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\project c\u002B\u002B\\ShowClient\\ShowClient\\ShowClient.cpp",
+              "RelativeToolTip": "ShowClient\\ShowClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T14:30:51.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

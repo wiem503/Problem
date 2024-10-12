@@ -1,0 +1,3 @@
+﻿  ShowClient.cpp
+C:\Users\LENOVO\Desktop\project c++\ShowClient\ShowClient\ShowClient.cpp(23,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+  ShowClient.vcxproj -> C:\Users\LENOVO\Desktop\project c++\ShowClient\ShowClient\x64\Debug\ShowClient.exe
